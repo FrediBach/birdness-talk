@@ -1,2 +1,3 @@
-# birdness-talk
-Talk slides about mental training for paragliding pilots
+# Birdness Talk
+
+Slides for a mental training talk for paragliding pilots

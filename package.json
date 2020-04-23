@@ -1,0 +1,23 @@
+{
+  "name": "birdness-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mdx-deck": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrediBach/birdness-talk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrediBach/birdness-talk/issues"
+  },
+  "homepage": "https://github.com/FrediBach/birdness-talk#readme"
+}
